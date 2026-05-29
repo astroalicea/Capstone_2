@@ -15,3 +15,4 @@ Connecticut and New York — using Python, pandas, NumPy, and Matplotlib.
   `ProductCategories.csv`, `customer_list.csv` — Source data
 
 ## Video Presentation
+https://www.loom.com/share/07bd91498e08477b8831b0d45688236c
